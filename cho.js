@@ -1,3 +1,3 @@
-function cho() {
-	
+function cho(name) {
+	this.name = name;
 }
